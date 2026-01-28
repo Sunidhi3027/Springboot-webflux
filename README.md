@@ -29,6 +29,7 @@
 
 ## Project Structure
 
+<img width="544" height="772" alt="image" src="https://github.com/user-attachments/assets/661d4df8-6f9e-4132-8f4d-e717a01a866b" />
 
-<img width="273" height="459" alt="image" src="https://github.com/user-attachments/assets/d23c5fc5-ad80-408f-828a-1509ee3921bd" />
+
 
