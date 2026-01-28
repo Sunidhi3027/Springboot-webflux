@@ -29,20 +29,6 @@
 
 ## Project Structure
 
-springboot-webflux/
-│
-├── controller/
-│ └── EmployeeController.java
-├── service/
-│ ├── EmployeeService.java
-│ └── EmployeeServiceImpl.java
-├── repository/
-│ └── EmployeeRepository.java
-├── model/
-│ └── Employee.java
-├── config/
-│ └── MongoConfig.java
-├── application.yml
-├── pom.xml
-└── Dockerfile
+
+<img width="273" height="459" alt="image" src="https://github.com/user-attachments/assets/d23c5fc5-ad80-408f-828a-1509ee3921bd" />
 
